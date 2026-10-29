@@ -1,4 +1,8 @@
 def test():
     print("Hello World")
 
-test()
+
+def test2():
+    print("My name is Ravi")
+
+test2()
