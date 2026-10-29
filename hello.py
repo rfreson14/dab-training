@@ -5,4 +5,7 @@ def test():
 def test2():
     print("My name is Ravi")
 
-test2()
+def test3():
+    print("My favorite number is 17")
+
+test3()
