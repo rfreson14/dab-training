@@ -22,7 +22,7 @@ resources:
         - task_key: run_script
           job_cluster_key: main_cluster
           spark_python_task:
-            python_file: ./src/hello_job.py
+            python_file: ./hello_job.py
             parameters:
               - "--env"
               - ${var.env_name}
